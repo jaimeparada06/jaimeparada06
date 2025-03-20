@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Jaime Parada</h1>
-<h3 align="center">Soy un ingeniero informático apasionado en el ámbito de la inteligencia artificial, machine learning, aprendizaje automático y visión artificial entre otros.</h3>
+<h3 align="center">Soy un ingeniero informático con mención en computación, graduado en un máster oficial de ciencia de datos y, actualmente estoy realizando mi doctorado en tecnologías informáticas avanzadas sobre el reconocimiento de acciones en baloncesto mediante deep learning y técnicas de visión por computadora.</h3>
 
 - 📫 How to reach me **jaimeplab@gmail.com**
 
